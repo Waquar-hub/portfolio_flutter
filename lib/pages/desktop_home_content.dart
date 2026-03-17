@@ -16,7 +16,7 @@ class DesktopHomeContent extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Text(
-                "Hello, I'm Waquar 👋",
+                "Hello, I'm Waquar 👋     ",
                 style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
               ),
               const SizedBox(height: 16),
